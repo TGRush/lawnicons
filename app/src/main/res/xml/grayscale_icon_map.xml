@@ -6,7 +6,7 @@
     <icon drawable="@drawable/camera" package="com.android.mgc" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.MGC.not.stable" name="Camera" />
     <icon drawable="@drawable/camera" package="com.sec.android.app.camera" name="Camera" />
-    <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraEng" name="Camera"
+    <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraEng" name="Camera" />
     <icon drawable="@drawable/files" package="com.google.android.documentsui" name="Files" />
     <icon drawable="@drawable/files" package="com.sec.android.app.myfiles" name="Files" />
     <icon drawable="@drawable/spark_email" package="com.readdle.spark" name="Spark Email" />
