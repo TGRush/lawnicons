@@ -23,3 +23,4 @@ Send the package name of that app
 Send the name of the app
 
 # This is WIP at the moment, anything about this fork and the original may change at any time without warning
+### Also most of these icons aren't made from their real SVGs but rather some gimp and conversion tools
