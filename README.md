@@ -3,6 +3,7 @@
 
 ### What is Lawnicons even?
 Lawnicons is Lawnchair's "Extension" to Lawnchair 12, which allows the launcher to theme Icons based on wallpaper which aren't supported by Google
+It doesn't generate them on-the-fly, but has some pre-made Icons which are used to do this
 
 ### How to install Lawnicons?
 **these instructions go for both, the original, and this Fork**
