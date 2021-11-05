@@ -6,6 +6,7 @@
     <icon drawable="@drawable/camera" package="com.android.mgc" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.MGC.not.stable" name="Camera" />
     <icon drawable="@drawable/camera" package="com.sec.android.app.camera" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraEng" name="Camera"
     <icon drawable="@drawable/files" package="com.google.android.documentsui" name="Files" />
     <icon drawable="@drawable/files" package="com.sec.android.app.myfiles" name="Files" />
     <icon drawable="@drawable/spark_email" package="com.readdle.spark" name="Spark Email" />
@@ -54,5 +55,5 @@
     <icon drawable="@drawable/messages" package="com.samsung.android.messaging" name="Messages" />
     <icon drawable="@drawable/calculator" package="com.sec.android.app.popupcalculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.android.calculator2" name="Calculator" />
-    <icon drawable="@drawable/nekogram_x" package="nekox.messenger" name="Nekogram X"
+    <icon drawable="@drawable/nekogram_x" package="nekox.messenger" name="Nekogram X" />
 </icons>
