@@ -56,4 +56,5 @@
     <icon drawable="@drawable/calculator" package="com.sec.android.app.popupcalculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.android.calculator2" name="Calculator" />
     <icon drawable="@drawable/nekogram_x" package="nekox.messenger" name="Nekogram X" />
+    <icon drawable="@drawable/fennec_fdroid" package="org.mozilla.fennec_fdroid" name="Fennec" />
 </icons>
