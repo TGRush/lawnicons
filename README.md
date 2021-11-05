@@ -15,4 +15,11 @@ It doesn't generate them on-the-fly, but has some pre-made Icons which are used 
 5. Enjoy themed Icons!
 ***Note: These Icons don't work in the appdrawer, presumably this is intentional***
 
+### Requesting Icons
+Requesting is simple.
+Just do the following:
+Send an SVG (Scalable Vector Graphic) of an app icon of your choice
+Send the package name of that app
+Send the name of the app
+
 # This is WIP at the moment, anything about this fork and the original may change at any time without warning
