@@ -1,6 +1,10 @@
 # Lawnicons extra
 ## A fork of Lawnicons with some extra Icons I, [@TGRush](https://github.com/TGRush), added to the base pack
 
+### further development moved to [TGRush/Lawnicons_extra_upstream](github.com/TGRush/lawnicons_extra_upstream) because I am too lazy to fix merging so I just made a script which applies my stuff on top of original sources instead
+
+
+
 ### What is Lawnicons even?
 Lawnicons is Lawnchair's "Extension" to Lawnchair 12, which allows the launcher to theme Icons based on wallpaper which aren't supported by Google
 It doesn't generate them on-the-fly, but has some pre-made Icons which are used to do this
